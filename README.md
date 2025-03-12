@@ -92,6 +92,12 @@
 - [2023/12] **Holodeck: LLM-driven 3D Simulation Environments**  
 [[Paper](https://arxiv.org/abs/2312.09076)] [[Code](https://github.com/holodeck-sim)]
 
+
+---
+## Acknowledgements
+
+This project has been inspired by the work of [git-disl/awesome-LLM-game-agent-papers](https://github.com/git-disl/awesome-LLM-game-agent-papers). Special thanks go to [Sihao Hu](https://github.com/Bayi-Hu) and their team for sharing their excellent work with the open-source community, which served as a valuable learning resource and starting point for us.
+
 ---
 
 ## Citation
