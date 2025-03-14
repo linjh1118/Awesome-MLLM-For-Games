@@ -22,12 +22,20 @@
 ---
 
 ## Contents
-- [Multimodal Game Agent Frameworks](#multimodal-game-agent-frameworks)
-- [Vision-Language Interaction](#vision-language-interaction)
-- [Embodied Multimodal Agents](#embodied-multimodal-agents)
-- [Multimodal Game Generation](#multimodal-game-generation)
-- [Cross-modal Decision Making](#cross-modal-decision-making)
-- [Multimodal Simulation](#multimodal-simulation)
+- [Awesome-MLLM-For-Games](#awesome-mllm-for-games)
+  - [Contents](#contents)
+    - [Multimodal Game Agent Frameworks](#multimodal-game-agent-frameworks)
+    - [Vision-Language Interaction](#vision-language-interaction)
+      - [Video Game Understanding](#video-game-understanding)
+    - [Embodied Multimodal Agents](#embodied-multimodal-agents)
+      - [3D Environment Interaction](#3d-environment-interaction)
+    - [Multimodal Game Generation](#multimodal-game-generation)
+    - [Cross-modal Decision Making](#cross-modal-decision-making)
+    - [Multimodal Simulation](#multimodal-simulation)
+  - [Acknowledgements](#acknowledgements)
+  - [Citation](#citation)
+  - [Contribution](#contribution)
+  - [Contributors](#contributors)
 
 ---
 
@@ -120,3 +128,8 @@ Welcome contributions! Please:
 4. Categorize papers appropriately
 
 *Maintained by [Jinghao Lin] - linjh1118@foxmail.com*
+
+## Contributors
+<a href="https://github.com/linjh1118/Awesome-MLLM-For-Games/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=linjh1118/Awesome-MLLM-For-Games" />
+</a>
