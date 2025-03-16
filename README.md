@@ -68,7 +68,7 @@
 *Integrates visual, tactile, and auditory inputs for robotic control*
 
 - [2023/11] **JARVIS-1: Open-world Agent with Memory-Augmented Multimodal LM**  
-[[Paper](https://arxiv.org/abs/2311.05997)] [[Code](https://github.com/CraftJarvis/JARVIS-1)] [[Page](https://craftjarvis.github.io/JARVIS-1/)]
+[[Paper](https://arxiv.org/abs/2311.05997)] [[Code](https://github.com/CraftJarvis/JARVIS-1)] [[Page](https://craftjarvis.github.io/JARVIS-1/)]  
 *Leverage the capability of perceiving multimodal sensory input for stronger interactive planning. Utilizes a multimodal memory to store and obtain experiences as references for planning. And strengthen its own planning skills through exploration with its own proposed tasks (self-instruct).*
 
 ---
@@ -99,7 +99,7 @@
 *Multi-agent system with vision-language-audio interaction*
 
 - [2023/12] **Holodeck: Language Guided Generation of 3D Embodied AI Environments**  
-[[Paper](https://arxiv.org/abs/2312.09067)] [[Code](https://github.com/allenai/Holodeck)] [[Page](https://yueyang1996.github.io/holodeck/)]
+[[Paper](https://arxiv.org/abs/2312.09067)] [[Code](https://github.com/allenai/Holodeck)] [[Page](https://yueyang1996.github.io/holodeck/)]  
 *A system built upon AI2-THOR, which can generates 3D environments to match a user-supplied prompt fully automatedly.*
 
 ---
