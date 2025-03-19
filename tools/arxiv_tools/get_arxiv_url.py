@@ -29,6 +29,7 @@ def get_arxiv_url(title = "ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
     search = arxiv.Search(query = f'ti:{tidy_title}')
     try:
         first_result = next(client.results(search))
+        # TODO: 从10个里边找出标题最相似的，用fuzzysearch即可
     except Exception as e:
         content = f"- Error: {e} for title: {title}"
         print(content)
@@ -40,7 +41,7 @@ def get_arxiv_url(title = "ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
     urls = re.findall(r'https?://[^\s]+', first_result.summary)
     code_or_page = urls[0] if urls else ""
 
-    markdown_content = """- [{year_month_str}] **{title}**
+    markdown_content = """- [{year_month_str}] **{title}**  
 [Paper]({paper_url}) [Code/Page]({code_or_page})""".format(year_month_str=year_month_str, title=title, paper_url=first_result.pdf_url, code_or_page=code_or_page)
     print(markdown_content)
     if output_file:
