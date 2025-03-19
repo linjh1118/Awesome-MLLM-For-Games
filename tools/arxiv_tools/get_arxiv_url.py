@@ -40,7 +40,7 @@ def get_arxiv_url(title = "ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
     urls = re.findall(r'https?://[^\s]+', first_result.summary)
     code_or_page = urls[0] if urls else ""
 
-    markdown_content = """- [{year_month_str}] **{title}**
+    markdown_content = """- [{year_month_str}] **{title}**  
 [Paper]({paper_url}) [Code/Page]({code_or_page})""".format(year_month_str=year_month_str, title=title, paper_url=first_result.pdf_url, code_or_page=code_or_page)
     print(markdown_content)
     if output_file:
@@ -49,9 +49,6 @@ def get_arxiv_url(title = "ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
     if do_show_md:
         show_md(markdown_content.replace('\n', '\n\n'))
     
-    
-    
-
 
 def get_args():
     parser = argparse.ArgumentParser(description="Get the arXiv URL for a file which each line is a title.")
