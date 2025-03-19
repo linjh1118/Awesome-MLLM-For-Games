@@ -29,6 +29,7 @@ def get_arxiv_url(title = "ING-VP: MLLMs cannot Play Easy Vision-based Games Yet
     search = arxiv.Search(query = f'ti:{tidy_title}')
     try:
         first_result = next(client.results(search))
+        # TODO: 从10个里边找出标题最相似的，用fuzzysearch即可
     except Exception as e:
         content = f"- Error: {e} for title: {title}"
         print(content)

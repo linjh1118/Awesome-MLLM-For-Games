@@ -54,15 +54,15 @@
 
 ### MC Topic
 
-- [2024/08] **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks**  
-[[Paper](http://arxiv.org/pdf/2206.05096v3)] [[Code/Page](None)]
+- [2023/12] **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks**  
+[[Paper](http://arxiv.org/pdf/2303.16563)] [[Code/Page](None)]
 
 
-- [2023/08] **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World MultiTask Agents**  
-[[Paper](http://arxiv.org/pdf/2304.03442v2)] [[Code/Page](None)]
+- [2023/02] **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World MultiTask Agents**  
+[[Paper](http://arxiv.org/pdf/2302.01560)] [[Code/Page](None)]
 
-- [2025/01] **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory**  
-[[Paper](http://arxiv.org/pdf/2409.18313v5)] [[Code/Page](None)]
+- [2023/05] **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory**  
+[[Paper](http://arxiv.org/pdf/2305.17144)] [[Code/Page](None)]
 
 
 - [2024/03] **Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**  
@@ -83,11 +83,11 @@
 
 ### others                                                                                    
 
-- [2006/12] **A Survey on Game Playing Agents and Large Models: Methods, Applications ...**  
-[[Paper](http://arxiv.org/pdf/astro-ph/0612370v1)] [[Code/Page](None)]                             
+- [2024/05] **A Survey on Game Playing Agents and Large Models: Methods, Applications ...**  
+[[Paper](http://arxiv.org/pdf/2403.10249)] [[Code/Page](None)]                             
 
 - [2024/11] **GameVLM: A Decision-making Framework for Robotic Task Planning Based**  
-[[Paper](http://arxiv.org/pdf/2411.01639v1)] [[Code/Page](None)]
+[[Paper](http://arxiv.org/pdf/2405.13751)] [[Code/Page](None)]
 
 - [2024/08] **Level Up Your Tutorials: VLMs for Game Tutorials Quality Assessment**  
 [[Paper](http://arxiv.org/pdf/2408.08396v1)] [[Code/Page](None)]
