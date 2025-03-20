@@ -21,6 +21,8 @@
 
 ---
 
+🤗 By the way, if you're into generative models for game development, take a look at our [Awesome-Generative-Model-For-Games](https://github.com/linjh1118/Awesome-Generative-Model-For-Games) repository, which showcases the latest research and techniques in this area. 
+
 ## Contents
 - [Awesome-MLLM-For-Games](#awesome-mllm-for-games)
   - [Contents](#contents)
@@ -39,6 +41,8 @@
   - [Contributors](#contributors)
 
 ---
+
+
 ### Multimodal Interaction Benchmark
 
 - [2024/01] **ING-VP: MLLMs cannot Play Easy Vision-based Games Yet**  
