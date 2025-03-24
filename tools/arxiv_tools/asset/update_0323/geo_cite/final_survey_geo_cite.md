@@ -1,8 +1,5 @@
 # Paper List of geo_cite
 
-- [12/07] **The Arcade Learning Environment: An Evaluation Platform for General Agents**  
-[[Paper](http://arxiv.org/pdf/1207.4708v2)] [[Code/Page]()] [[TLDR/Notes](#the-arcade-learning-environment--an-evaluation-platform-for-general-agents)]
-
 - [22/05] **ARLO: A Framework for Automated Reinforcement Learning**  
 [[Paper](http://arxiv.org/pdf/2205.10416v1)] [[Code/Page]()] [[TLDR/Notes](#arlo--a-framework-for-automated-reinforcement-learning)]
 
