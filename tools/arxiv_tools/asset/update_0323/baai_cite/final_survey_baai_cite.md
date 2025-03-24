@@ -1,6 +1,4 @@
 # Paper List of baai_cite.md
-- [14/03] **Face Recognition Methods & Applications**  
-[[Paper](http://arxiv.org/pdf/1403.0485v1)] [[Code/Page]()] [[TLDR/Notes](#face-recognition-methods-&-applications)]
 
 - [24/08] **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**  
 [[Paper](http://arxiv.org/pdf/2408.03615v2)] [[Code/Page]()] [[TLDR/Notes](#optimus-1--hybrid-multimodal-memory-empowered-agents-excel-in-long-horizon-tasks)]
