@@ -19,7 +19,7 @@ args = nlp.Args.get_args(
         # sample_size=32, max_workers=16,
         # sample_size=32, max_workers=8,
         # sample_size=-1, max_workers=16,
-        sample_size=-1, max_workers=2,
+        sample_size=-1, max_workers=32,
         # ==============================================================================
         # >>>>> rollout model （ 需要组合工作流，参考：/workspace/linjh/CoT_Factory/exps/1212_long_cot/code/0219_gen_and_optim_r1/3_gen_32b/both_verify/0_gen_and_verify_on_perfect_cap.py）
         # model_name='claude-3-5-sonnet-20241022',

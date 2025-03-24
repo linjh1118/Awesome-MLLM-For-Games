@@ -8,19 +8,19 @@ from rich.markdown import Markdown
 from pathlib import Path as p
 
 
-
 def show_md(markdown_table_content: str):
     console = Console()
     md = Markdown(markdown_table_content)
     console.print(md)
     
-    
 def make_survey_markdown(input_df, output_file, do_show_md=True):
-    original_term_file = output_file.with_stem(output_file.stem.replace('final_survey_', 'terms_'))
-    terms = p(original_term_file).read_text().strip().split()
     
-    # two content， one for table of content, one for tldr
-    table_content = '# Paper List of Terms(' + '+'.join(terms) + ')\n'
+    original_term_file = output_file.with_stem(output_file.stem.replace('final_survey_', 'terms_'))
+    if p(original_term_file).exists():
+        terms = p(original_term_file).read_text().strip().split()
+        table_content = '# Paper List of Terms(' + '+'.join(terms) + ')\n'
+    else:
+        table_content = '# Paper List of ' + output_file.name.replace('final_survey_', '') + '\n'
     tldr_content = '# TLDR/Notes\n'
     
     for a_paper in input_df:
