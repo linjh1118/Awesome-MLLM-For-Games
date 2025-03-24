@@ -1,51 +1,51 @@
 # Paper List of Terms(games+benchmark)
 - [25/03] **DSGBench: A Diverse Strategic Game Benchmark for Evaluating LLM-based Agents in Complex Decision-Making Environments**  
-[[Paper](http://arxiv.org/pdf/2503.06047v1)] [[Code/Page](https://github.com/DeciBrain-Group/DSGBench.)] [[TLDR/Notes](#dsgbench-a-diverse-strategic-game-benchmark-for-evaluating-llm-based-agents-in-complex-decision-making-environments)]
+[[Paper](http://arxiv.org/pdf/2503.06047v1)] [[Code/Page](https://github.com/DeciBrain-Group/DSGBench.)] [[TLDR/Notes](#dsgbench--a-diverse-strategic-game-benchmark-for-evaluating-llm-based-agents-in-complex-decision-making-environments)]
 
 - [25/02] **Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests**  
-[[Paper](http://arxiv.org/pdf/2502.14359v1)] [[Code/Page]()] [[TLDR/Notes](#triangulating-llm-progress-through-benchmarks,-games,-and-cognitive-tests)]
+[[Paper](http://arxiv.org/pdf/2502.14359v1)] [[Code/Page]()] [[TLDR/Notes](#triangulating-llm-progress-through-benchmarks--games--and-cognitive-tests)]
 
 - [25/02] **Who's the MVP? A Game-Theoretic Evaluation Benchmark for Modular Attribution in LLM Agents**  
-[[Paper](http://arxiv.org/pdf/2502.00510v2)] [[Code/Page]()] [[TLDR/Notes](#who's-the-mvp?-a-game-theoretic-evaluation-benchmark-for-modular-attribution-in-llm-agents)]
+[[Paper](http://arxiv.org/pdf/2502.00510v2)] [[Code/Page]()] [[TLDR/Notes](#who-s-the-mvp--a-game-theoretic-evaluation-benchmark-for-modular-attribution-in-llm-agents)]
 
 - [25/01] **Solving Urban Network Security Games: Learning Platform, Benchmark, and Challenge for AI Research**  
-[[Paper](http://arxiv.org/pdf/2501.17559v1)] [[Code/Page]()] [[TLDR/Notes](#solving-urban-network-security-games-learning-platform,-benchmark,-and-challenge-for-ai-research)]
+[[Paper](http://arxiv.org/pdf/2501.17559v1)] [[Code/Page]()] [[TLDR/Notes](#solving-urban-network-security-games--learning-platform--benchmark--and-challenge-for-ai-research)]
 
 - [24/12] **How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games**  
-[[Paper](http://arxiv.org/pdf/2412.12362v1)] [[Code/Page]()] [[TLDR/Notes](#how-different-ai-chatbots-behave?-benchmarking-large-language-models-in-behavioral-economics-games)]
+[[Paper](http://arxiv.org/pdf/2412.12362v1)] [[Code/Page]()] [[TLDR/Notes](#how-different-ai-chatbots-behave--benchmarking-large-language-models-in-behavioral-economics-games)]
 
 - [24/12] **AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games**  
-[[Paper](http://arxiv.org/pdf/2412.10798v2)] [[Code/Page]()] [[TLDR/Notes](#auctionnet-a-novel-benchmark-for-decision-making-in-large-scale-games)]
+[[Paper](http://arxiv.org/pdf/2412.10798v2)] [[Code/Page]()] [[TLDR/Notes](#auctionnet--a-novel-benchmark-for-decision-making-in-large-scale-games)]
 
 - [24/12] **From Code to Play: Benchmarking Program Search for Games Using Large Language Models**  
-[[Paper](http://arxiv.org/pdf/2412.04057v1)] [[Code/Page]()] [[TLDR/Notes](#from-code-to-play-benchmarking-program-search-for-games-using-large-language-models)]
+[[Paper](http://arxiv.org/pdf/2412.04057v1)] [[Code/Page]()] [[TLDR/Notes](#from-code-to-play--benchmarking-program-search-for-games-using-large-language-models)]
 
 - [24/11] **BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**  
-[[Paper](http://arxiv.org/pdf/2411.13543v1)] [[Code/Page]()] [[TLDR/Notes](#balrog-benchmarking-agentic-llm-and-vlm-reasoning-on-games)]
+[[Paper](http://arxiv.org/pdf/2411.13543v1)] [[Code/Page]()] [[TLDR/Notes](#balrog--benchmarking-agentic-llm-and-vlm-reasoning-on-games)]
 
 - [24/10] **TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs**  
-[[Paper](http://arxiv.org/pdf/2410.10479v1)] [[Code/Page]()] [[TLDR/Notes](#tmgbench-a-systematic-game-benchmark-for-evaluating-strategic-reasoning-abilities-of-llms)]
+[[Paper](http://arxiv.org/pdf/2410.10479v1)] [[Code/Page]()] [[TLDR/Notes](#tmgbench--a-systematic-game-benchmark-for-evaluating-strategic-reasoning-abilities-of-llms)]
 
 - [24/09] **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**  
-[[Paper](http://arxiv.org/pdf/2409.16925v2)] [[Code/Page]()] [[TLDR/Notes](#game4loc-a-uav-geo-localization-benchmark-from-game-data)]
+[[Paper](http://arxiv.org/pdf/2409.16925v2)] [[Code/Page]()] [[TLDR/Notes](#game4loc--a-uav-geo-localization-benchmark-from-game-data)]
 
 - [24/09] **ES-KT-24: A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation**  
-[[Paper](http://arxiv.org/pdf/2409.10244v1)] [[Code/Page]()] [[TLDR/Notes](#es-kt-24-a-multimodal-knowledge-tracing-benchmark-dataset-with-educational-game-playing-video-and-synthetic-text-generation)]
+[[Paper](http://arxiv.org/pdf/2409.10244v1)] [[Code/Page]()] [[TLDR/Notes](#es-kt-24--a-multimodal-knowledge-tracing-benchmark-dataset-with-educational-game-playing-video-and-synthetic-text-generation)]
 
 - [24/08] **Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games**  
-[[Paper](http://arxiv.org/pdf/2408.15950v2)] [[Code/Page](https://dev1nw.github.io/atari-gpt/.)] [[TLDR/Notes](#atari-gpt-benchmarking-multimodal-large-language-models-as-low-level-policies-in-atari-games)]
+[[Paper](http://arxiv.org/pdf/2408.15950v2)] [[Code/Page](https://dev1nw.github.io/atari-gpt/.)] [[TLDR/Notes](#atari-gpt--benchmarking-multimodal-large-language-models-as-low-level-policies-in-atari-games)]
 
 - [24/08] **Hokoff: Real Game Dataset from Honor of Kings and its Offline Reinforcement Learning Benchmarks**  
-[[Paper](http://arxiv.org/pdf/2408.10556v2)] [[Code/Page]()] [[TLDR/Notes](#hokoff-real-game-dataset-from-honor-of-kings-and-its-offline-reinforcement-learning-benchmarks)]
+[[Paper](http://arxiv.org/pdf/2408.10556v2)] [[Code/Page]()] [[TLDR/Notes](#hokoff--real-game-dataset-from-honor-of-kings-and-its-offline-reinforcement-learning-benchmarks)]
 
 - [24/07] **A Benchmark Environment for Offline Reinforcement Learning in Racing Games**  
 [[Paper](http://arxiv.org/pdf/2407.09415v1)] [[Code/Page]()] [[TLDR/Notes](#a-benchmark-environment-for-offline-reinforcement-learning-in-racing-games)]
 
 - [24/07] **Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard**  
-[[Paper](http://arxiv.org/pdf/2407.07796v2)] [[Code/Page]()] [[TLDR/Notes](#evaluating-large-language-models-with-grid-based-game-competitions-an-extensible-llm-benchmark-and-leaderboard)]
+[[Paper](http://arxiv.org/pdf/2407.07796v2)] [[Code/Page]()] [[TLDR/Notes](#evaluating-large-language-models-with-grid-based-game-competitions--an-extensible-llm-benchmark-and-leaderboard)]
 
 - [24/02] **Simple Stochastic Stopping Games: A Generator and Benchmark Library**  
-[[Paper](http://arxiv.org/pdf/2402.02571v1)] [[Code/Page]()] [[TLDR/Notes](#simple-stochastic-stopping-games-a-generator-and-benchmark-library)]
+[[Paper](http://arxiv.org/pdf/2402.02571v1)] [[Code/Page]()] [[TLDR/Notes](#simple-stochastic-stopping-games--a-generator-and-benchmark-library)]
 
 - [23/11] **Application-level Benchmarking of Quantum Computers using Nonlocal Game Strategies**  
 [[Paper](http://arxiv.org/pdf/2311.01363v4)] [[Code/Page]()] [[TLDR/Notes](#application-level-benchmarking-of-quantum-computers-using-nonlocal-game-strategies)]
@@ -54,10 +54,10 @@
 [[Paper](http://arxiv.org/pdf/2310.14360v4)] [[Code/Page]()] [[TLDR/Notes](#is-chatgpt-a-game-changer-for-geocoding----a-benchmark-for-geocoding-address-parsing-techniques)]
 
 - [23/04] **Dialogue Games for Benchmarking Language Understanding: Motivation, Taxonomy, Strategy**  
-[[Paper](http://arxiv.org/pdf/2304.07007v1)] [[Code/Page]()] [[TLDR/Notes](#dialogue-games-for-benchmarking-language-understanding-motivation,-taxonomy,-strategy)]
+[[Paper](http://arxiv.org/pdf/2304.07007v1)] [[Code/Page]()] [[TLDR/Notes](#dialogue-games-for-benchmarking-language-understanding--motivation--taxonomy--strategy)]
 
 - [23/02] **MuG: A Multimodal Classification Benchmark on Game Data with Tabular, Textual, and Visual Fields**  
-[[Paper](http://arxiv.org/pdf/2302.02978v2)] [[Code/Page](https://github.com/lujiaying/MUG-Bench)] [[TLDR/Notes](#mug-a-multimodal-classification-benchmark-on-game-data-with-tabular,-textual,-and-visual-fields)]
+[[Paper](http://arxiv.org/pdf/2302.02978v2)] [[Code/Page](https://github.com/lujiaying/MUG-Bench)] [[TLDR/Notes](#mug--a-multimodal-classification-benchmark-on-game-data-with-tabular--textual--and-visual-fields)]
 
 - [22/12] **Equilibria in Repeated Games under No-Regret with Dynamic Benchmarks**  
 [[Paper](http://arxiv.org/pdf/2212.03152v3)] [[Code/Page]()] [[TLDR/Notes](#equilibria-in-repeated-games-under-no-regret-with-dynamic-benchmarks)]
@@ -66,40 +66,40 @@
 [[Paper](http://arxiv.org/pdf/2210.15852v1)] [[Code/Page](https://sites.google.com/view/swarm-game-benchmark.)] [[TLDR/Notes](#a-game-benchmark-for-real-time-human-swarm-control)]
 
 - [22/10] **WILD-SCAV: Benchmarking FPS Gaming AI on Unity3D-based Environments**  
-[[Paper](http://arxiv.org/pdf/2210.09026v1)] [[Code/Page](https://github.com/inspirai/wilderness-scavenger.)] [[TLDR/Notes](#wild-scav-benchmarking-fps-gaming-ai-on-unity3d-based-environments)]
+[[Paper](http://arxiv.org/pdf/2210.09026v1)] [[Code/Page](https://github.com/inspirai/wilderness-scavenger.)] [[TLDR/Notes](#wild-scav--benchmarking-fps-gaming-ai-on-unity3d-based-environments)]
 
 - [22/07] **The Game of Hidden Rules: A New Kind of Benchmark Challenge for Machine Learning**  
-[[Paper](http://arxiv.org/pdf/2207.10218v1)] [[Code/Page]()] [[TLDR/Notes](#the-game-of-hidden-rules-a-new-kind-of-benchmark-challenge-for-machine-learning)]
+[[Paper](http://arxiv.org/pdf/2207.10218v1)] [[Code/Page]()] [[TLDR/Notes](#the-game-of-hidden-rules--a-new-kind-of-benchmark-challenge-for-machine-learning)]
 
 - [22/07] **GOAL: Towards Benchmarking Few-Shot Sports Game Summarization**  
-[[Paper](http://arxiv.org/pdf/2207.08635v1)] [[Code/Page](https://github.com/krystalan/goal.)] [[TLDR/Notes](#goal-towards-benchmarking-few-shot-sports-game-summarization)]
+[[Paper](http://arxiv.org/pdf/2207.08635v1)] [[Code/Page](https://github.com/krystalan/goal.)] [[TLDR/Notes](#goal--towards-benchmarking-few-shot-sports-game-summarization)]
 
 - [21/12] **Meterstick: Benchmarking Performance Variability in Cloud and Self-hosted Minecraft-like Games Extended Technical Report**  
-[[Paper](http://arxiv.org/pdf/2112.06963v2)] [[Code/Page]()] [[TLDR/Notes](#meterstick-benchmarking-performance-variability-in-cloud-and-self-hosted-minecraft-like-games-extended-technical-report)]
+[[Paper](http://arxiv.org/pdf/2112.06963v2)] [[Code/Page]()] [[TLDR/Notes](#meterstick--benchmarking-performance-variability-in-cloud-and-self-hosted-minecraft-like-games-extended-technical-report)]
 
 - [21/02] **Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game**  
 [[Paper](http://arxiv.org/pdf/2102.13647v3)] [[Code/Page](https://github.com/Scriddie/Varsortability.)] [[TLDR/Notes](#beware-of-the-simulated-dag!-causal-discovery-benchmarks-may-be-easy-to-game)]
 
 - [20/12] **OpenHoldem: A Benchmark for Large-Scale Imperfect-Information Game Research**  
-[[Paper](http://arxiv.org/pdf/2012.06168v4)] [[Code/Page]()] [[TLDR/Notes](#openholdem-a-benchmark-for-large-scale-imperfect-information-game-research)]
+[[Paper](http://arxiv.org/pdf/2012.06168v4)] [[Code/Page]()] [[TLDR/Notes](#openholdem--a-benchmark-for-large-scale-imperfect-information-game-research)]
 
 - [20/07] **Towards Game-Playing AI Benchmarks via Performance Reporting Standards**  
 [[Paper](http://arxiv.org/pdf/2007.02742v1)] [[Code/Page]()] [[TLDR/Notes](#towards-game-playing-ai-benchmarks-via-performance-reporting-standards)]
 
 - [20/05] **Interbank lending with benchmark rates: Pareto optima for a class of singular control games**  
-[[Paper](http://arxiv.org/pdf/2005.05766v3)] [[Code/Page]()] [[TLDR/Notes](#interbank-lending-with-benchmark-rates-pareto-optima-for-a-class-of-singular-control-games)]
+[[Paper](http://arxiv.org/pdf/2005.05766v3)] [[Code/Page]()] [[TLDR/Notes](#interbank-lending-with-benchmark-rates--pareto-optima-for-a-class-of-singular-control-games)]
 
 - [20/04] **Benchmarking End-to-End Behavioural Cloning on Video Games**  
 [[Paper](http://arxiv.org/pdf/2004.00981v2)] [[Code/Page]()] [[TLDR/Notes](#benchmarking-end-to-end-behavioural-cloning-on-video-games)]
 
 - [19/10] **Design, Benchmarking and Explainability Analysis of a Game-Theoretic Framework towards Energy Efficiency in Smart Infrastructure**  
-[[Paper](http://arxiv.org/pdf/1910.07899v1)] [[Code/Page]()] [[TLDR/Notes](#design,-benchmarking-and-explainability-analysis-of-a-game-theoretic-framework-towards-energy-efficiency-in-smart-infrastructure)]
+[[Paper](http://arxiv.org/pdf/1910.07899v1)] [[Code/Page]()] [[TLDR/Notes](#design--benchmarking-and-explainability-analysis-of-a-game-theoretic-framework-towards-energy-efficiency-in-smart-infrastructure)]
 
 - [19/08] **Quantum Poker A game for quantum computers suitable for benchmarking error mitigation techniques on NISQ devices**  
 [[Paper](http://arxiv.org/pdf/1908.00044v4)] [[Code/Page]()] [[TLDR/Notes](#quantum-poker-a-game-for-quantum-computers-suitable-for-benchmarking-error-mitigation-techniques-on-nisq-devices)]
 
 - [19/05] **Correlation in Extensive-Form Games: Saddle-Point Formulation and Benchmarks**  
-[[Paper](http://arxiv.org/pdf/1905.12564v2)] [[Code/Page]()] [[TLDR/Notes](#correlation-in-extensive-form-games-saddle-point-formulation-and-benchmarks)]
+[[Paper](http://arxiv.org/pdf/1905.12564v2)] [[Code/Page]()] [[TLDR/Notes](#correlation-in-extensive-form-games--saddle-point-formulation-and-benchmarks)]
 
 - [19/04] **High-Level Representation of Benchmark Families for Petri Games**  
 [[Paper](http://arxiv.org/pdf/1904.05621v1)] [[Code/Page]()] [[TLDR/Notes](#high-level-representation-of-benchmark-families-for-petri-games)]
@@ -108,7 +108,7 @@
 [[Paper](http://arxiv.org/pdf/1903.07008v4)] [[Code/Page]()] [[TLDR/Notes](#leveling-the-playing-field----fairness-in-ai-versus-human-game-benchmarks)]
 
 - [19/02] **Marathon Environments: Multi-Agent Continuous Control Benchmarks in a Modern Video Game Engine**  
-[[Paper](http://arxiv.org/pdf/1902.09097v1)] [[Code/Page]()] [[TLDR/Notes](#marathon-environments-multi-agent-continuous-control-benchmarks-in-a-modern-video-game-engine)]
+[[Paper](http://arxiv.org/pdf/1902.09097v1)] [[Code/Page]()] [[TLDR/Notes](#marathon-environments--multi-agent-continuous-control-benchmarks-in-a-modern-video-game-engine)]
 
 - [18/09] **Benchmarking Cognitive Abilities of the Brain with Computer Games**  
 [[Paper](http://arxiv.org/pdf/1809.00172v1)] [[Code/Page]()] [[TLDR/Notes](#benchmarking-cognitive-abilities-of-the-brain-with-computer-games)]
@@ -120,12 +120,12 @@
 [[Paper](http://arxiv.org/pdf/1407.3121v2)] [[Code/Page]()] [[TLDR/Notes](#benchmarks-for-parity-games-(extended-version))]
 
 - [25/00] **Fate stochastic management and policy benchmark in 421, a popular game**  
-[[Paper](http://arxiv.org/pdf/math/0007129v1)] [[Code/Page]()] [[TLDR/Notes](#fate-stochastic-management-and-policy-benchmark-in-421,-a-popular-game)]
+[[Paper](http://arxiv.org/pdf/math/0007129v1)] [[Code/Page]()] [[TLDR/Notes](#fate-stochastic-management-and-policy-benchmark-in-421--a-popular-game)]
 
 
 
 # TLDR/Notes
-## DSGBench A Diverse Strategic Game Benchmark for Evaluating LLM-based Agents in Complex Decision-Making Environments
+## dsgbench--a-diverse-strategic-game-benchmark-for-evaluating-llm-based-agents-in-complex-decision-making-environments
 ### Abstract
 Large Language Model~(LLM) based agents have been increasingly popular in
 solving complex and dynamic tasks, which requires proper evaluation systems to
@@ -164,7 +164,7 @@ DSGBench通过应用于多个流行的LLM模型，展示了其在选择LLM模型
 ### 💬 可借鉴之处
 DSGBench为评估LLM模型在复杂决策环境中的战略决策能力提供了一个全面的框架。其细粒度的评估指标和决策跟踪机制可以帮助研究人员深入了解LLM模型的行为模式和策略变化，从而更好地改进模型的设计和开发。此外，DSGBench的灵活性和可定制性使其能够适应不同的评估需求，为LLM模型的研究和应用提供了有力的支持。
 
-## Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests
+## triangulating-llm-progress-through-benchmarks--games--and-cognitive-tests
 ### Abstract
 We examine three evaluation paradigms: large question-answering benchmarks
 (e.g., MMLU and BBH), interactive games (e.g., Signalling Games or Taboo), and
@@ -196,7 +196,7 @@ by assessing human abilities but designed specifically for LLMs.
 ### 💬 可借鉴之处
 本文的研究结果表明，交互式游戏是一种更有效的评估LLMs的方法，因为它能够更好地捕捉模型在实际语言使用场景中的能力。此外，针对性的认知测试可以帮助我们更好地理解LLMs的内在能力，并为未来的模型设计和评估提供指导。因此，本文的研究结果对于LLMs的评估和开发具有重要意义。
 
-## Who's the MVP? A Game-Theoretic Evaluation Benchmark for Modular Attribution in LLM Agents
+## who-s-the-mvp--a-game-theoretic-evaluation-benchmark-for-modular-attribution-in-llm-agents
 ### Abstract
 Large Language Model (LLM) agents frameworks often employ modular
 architectures, incorporating components such as planning, reasoning, action
@@ -234,7 +234,7 @@ advancing their deployment in complex, real-world scenarios.
 ### 💬 可借鉴之处
 CapaBench框架为优化模块化LLM Agent和推进其在复杂、现实世界场景中的应用提供了有价值的见解。通过系统地评估和量化每个模块的贡献，开发人员可以更好地理解Agent的性能，并针对性地进行优化，从而提高LLM Agent在现实世界中的应用效果。
 
-## Solving Urban Network Security Games Learning Platform, Benchmark, and Challenge for AI Research
+## solving-urban-network-security-games--learning-platform--benchmark--and-challenge-for-ai-research
 ### Abstract
 After the great achievement of solving two-player zero-sum games, more and
 more AI researchers focus on solving multiplayer games. To facilitate the
@@ -283,7 +283,7 @@ GraphChase平台为研究UNSG和多人博弈算法提供了一个有价值的工
 ### 📚 总结
 GraphChase平台为解决城市网络安全游戏提供了一个重要的工具，并为研究多人博弈算法提供了新的思路。随着人工智能技术的不断发展，GraphChase平台有望在解决现实世界问题方面发挥更大的作用。
 
-## How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games
+## how-different-ai-chatbots-behave--benchmarking-large-language-models-in-behavioral-economics-games
 ### Abstract
 The deployment of large language models (LLMs) in diverse applications
 requires a thorough understanding of their decision-making strategies and
@@ -312,7 +312,7 @@ potential implications for their deployment in critical decision-making roles.
 ### 💬 可借鉴之处
 本文的研究结果为理解LLMs的行为模式提供了有价值的见解，并为未来在AI行为科学领域的研究奠定了基础。研究结果表明，LLMs在模仿人类行为方面仍然存在局限性，需要进一步的研究来提高LLMs在行为经济学游戏中的表现。此外，LLMs在不同游戏中的行为不一致性也表明，需要开发更通用的偏好和目标，以便LLMs能够有效地适应各种情境。
 
-## AuctionNet A Novel Benchmark for Decision-Making in Large-Scale Games
+## auctionnet--a-novel-benchmark-for-decision-making-in-large-scale-games
 ### Abstract
 Decision-making in large-scale games is an essential research area in
 artificial intelligence (AI) with significant real-world impact. However, the
@@ -359,7 +359,7 @@ AuctionNet已经为NeurIPS 2024“大型拍卖中的自动投标”竞赛提供�
 ### 💬 可借鉴之处
 AuctionNet不仅为研究人员提供了研究大型拍卖中自动投标算法的机会，还帮助研究人员和实践者在博弈论、强化学习、生成模型、运营优化等领域解决广泛的决策制定研究问题。此外，AuctionNet还可以用于研究其他大型游戏中的决策制定问题，例如在线广告、推荐系统、资源分配等。
 
-## From Code to Play Benchmarking Program Search for Games Using Large Language Models
+## from-code-to-play--benchmarking-program-search-for-games-using-large-language-models
 ### Abstract
 Large language models (LLMs) have shown impressive capabilities in generating
 program code, opening exciting opportunities for applying program synthesis to
@@ -392,7 +392,7 @@ reliable than using just one.
 ### 💬 可借鉴之处
 本文提出的框架为评估LLMs在游戏领域合成程序代码的能力提供了一个易于使用且可扩展的平台。研究结果表明，LLMs在游戏领域具有巨大的潜力，但仍存在一些局限性，例如生成的代码质量不高、可执行性差等。未来研究可以探索更复杂的搜索策略和更好的提示工程，以提高LLMs的性能。此外，使用多种模型可以降低成本并提高结果的可靠性。
 
-## BALROG Benchmarking Agentic LLM and VLM Reasoning On Games
+## balrog--benchmarking-agentic-llm-and-vlm-reasoning-on-games
 ### Abstract
 Large Language Models (LLMs) and Vision Language Models (VLMs) possess
 extensive knowledge and exhibit promising reasoning abilities; however, they
@@ -430,7 +430,7 @@ facilitate future research and development in the agentic community.
 ### 💬 可借鉴之处
 本文提出的BALROG基准为评估LLMs和VLMs的代理能力提供了一个重要的工具，有助于推动该领域的研究和发展。此外，本文还指出了当前模型在视觉决策和长期规划方面的局限性，为未来的研究提供了方向。
 
-## TMGBench A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs
+## tmgbench--a-systematic-game-benchmark-for-evaluating-strategic-reasoning-abilities-of-llms
 ### Abstract
 The rapid advancement of large language models (LLMs) has accelerated their
 application in reasoning, with strategic reasoning drawing increasing
@@ -475,7 +475,7 @@ TMGBench将游戏视为原子单位，并通过顺序、并行和嵌套结构将
 ### 💬 可借鉴之处
 TMGBench为评估LLMs的战略推理能力提供了一个全面的基准测试，其创新点包括全面的游戏类型覆盖率、新颖的场景和灵活的游戏组织方式。此外，本文还揭示了LLMs在战略推理方面的缺陷，并提出了改进方向，为LLMs的研究和应用提供了有价值的参考。
 
-## Game4Loc A UAV Geo-Localization Benchmark from Game Data
+## game4loc--a-uav-geo-localization-benchmark-from-game-data
 ### Abstract
 The vision-based geo-localization technology for UAV, serving as a secondary
 source of GPS information in addition to the global navigation satellite
@@ -515,7 +515,7 @@ generalization capabilities to real-world scenarios.
 ### 💬 可借鉴之处
 本文提出的GTA-UAV数据集和基于权重的对比学习方法为无人机地理定位研究提供了新的思路和方法，有助于提高无人机在GPS信号不可用环境下的定位精度和鲁棒性。
 
-## ES-KT-24 A Multimodal Knowledge Tracing Benchmark Dataset with Educational Game Playing Video and Synthetic Text Generation
+## es-kt-24--a-multimodal-knowledge-tracing-benchmark-dataset-with-educational-game-playing-video-and-synthetic-text-generation
 ### Abstract
 This paper introduces ES-KT-24, a novel multimodal Knowledge Tracing (KT)
 dataset for intelligent tutoring systems in educational game contexts. Although
@@ -555,7 +555,7 @@ ES-KT-24数据集包含了教育游戏视频、合成文本和详细游戏日志
 ### 💬 可借鉴之处
 ES-KT-24数据集为KT研究提供了新的基准，并展示了多模态数据在游戏化学习环境中的价值。研究人员可以利用该数据集来探索游戏化学习现象、分析多模态学习过程，并开发更复杂的模型来捕捉教育环境中的多样模态。此外，该数据集还支持游戏难度分类、特征影响分析、生成游戏设计、多模态学习分析、参与度和绩效相关性、跨文化学习模式以及时间学习动态等方面的研究。
 
-## Atari-GPT Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games
+## atari-gpt--benchmarking-multimodal-large-language-models-as-low-level-policies-in-atari-games
 ### Abstract
 Recent advancements in large language models (LLMs) have expanded their
 capabilities beyond traditional text-based tasks to multimodal domains,
@@ -593,7 +593,7 @@ https://dev1nw.github.io/atari-gpt/.
 ### 💬 可借鉴之处
 本文的研究结果为LLMs在低级控制任务中的应用提供了宝贵的见解。尽管LLMs尚未达到与人类或RL模型相匹配的水平，但它们在Atari游戏中的表现仍然值得注意。这表明LLMs具有适应性和潜力，可以扩展到其原始训练范围之外，为未来在需要详细环境交互和决策的应用中作为更通用的低级控制器提供了一瞥。
 
-## Hokoff Real Game Dataset from Honor of Kings and its Offline Reinforcement Learning Benchmarks
+## hokoff--real-game-dataset-from-honor-of-kings-and-its-offline-reinforcement-learning-benchmarks
 ### Abstract
 The advancement of Offline Reinforcement Learning (RL) and Offline
 Multi-Agent Reinforcement Learning (MARL) critically depends on the
@@ -633,7 +633,7 @@ Hokoff提供了多样化的数据集，包括多难度、多任务、泛化、�
 ### 💬 可借鉴之处
 Hokoff数据集和框架为离线RL和离线MARL的研究提供了宝贵的资源。其多样化的数据集和强大的框架可以帮助研究人员更好地理解和评估离线学习算法的性能，并为解决现实世界问题提供新的思路和方法。
 
-## A Benchmark Environment for Offline Reinforcement Learning in Racing Games
+## a-benchmark-environment-for-offline-reinforcement-learning-in-racing-games
 ### Abstract
 Offline Reinforcement Learning (ORL) is a promising approach to reduce the
 high sample complexity of traditional Reinforcement Learning (RL) by
@@ -671,7 +671,7 @@ OfflineMania是一个基于Unity 3D游戏引擎开发的单代理赛车游戏环
 ### 💬 可借鉴之处
 OfflineMania环境和提供的数据集为ORL研究提供了一个有价值的测试平台。论文中的基线结果为评估不同ORL算法的性能提供了参考。此外，论文还探讨了离线到在线RL方法在游戏环境中的应用，为游戏开发人员提供了新的思路。
 
-## Evaluating Large Language Models with Grid-Based Game Competitions An Extensible LLM Benchmark and Leaderboard
+## evaluating-large-language-models-with-grid-based-game-competitions--an-extensible-llm-benchmark-and-leaderboard
 ### Abstract
 We introduce a novel and extensible benchmark for large language models
 (LLMs) through grid-based games such as Tic-Tac-Toe, Connect Four, and Gomoku.
@@ -713,7 +713,7 @@ game-based frameworks.
 ### 💬 可借鉴之处
 本文提出的基于网格的游戏竞赛基准为评估LLMs的能力提供了一个有价值的工具。此外，本文还提供了一个开放源代码和排行榜，方便研究人员进行进一步的分析和比较。本文的研究结果对于理解LLMs的能力和局限性具有重要意义，并为未来的研究和开发提供了方向。
 
-## Simple Stochastic Stopping Games A Generator and Benchmark Library
+## simple-stochastic-stopping-games--a-generator-and-benchmark-library
 ### Abstract
 Simple Stochastic Games (SSGs) were introduced by Anne Condon in 1990, as the
 simplest version of Stochastic Games for which there is no known
@@ -751,7 +751,7 @@ benchmark set.
 ### 💬 可借鉴之处
 本文提出的生成算法和基准库为SSGs的研究提供了重要的工具，可以帮助研究人员更好地理解SSGs的复杂性，并寻找更有效的算法。此外，本文提出的多项式时间简化方法也可以应用于其他组合优化问题，以提高算法的效率。
 
-## Application-level Benchmarking of Quantum Computers using Nonlocal Game Strategies
+## application-level-benchmarking-of-quantum-computers-using-nonlocal-game-strategies
 ### Abstract
 In a nonlocal game, two noncommunicating players cooperate to convince a
 referee that they possess a strategy that does not violate the rules of the
@@ -782,7 +782,7 @@ samples required to accurately estimate the win rate in the presence of noise.
 ### 💬 可借鉴之处
 本文提出的变分量子算法为计算非局域游戏中的量子策略提供了一种有效的方法，并为量子硬件基准测试提供了一种新的思路。该方法可以应用于其他非局域游戏，并有助于开发更合适的量子基准测试工具，以适应量子设备的发展和硬件架构的复杂性。
 
-## Is ChatGPT a game changer for geocoding -- a benchmark for geocoding address parsing techniques
+## is-chatgpt-a-game-changer-for-geocoding----a-benchmark-for-geocoding-address-parsing-techniques
 ### Abstract
 The remarkable success of GPT models across various tasks, including toponymy
 recognition motivates us to assess the performance of the GPT-3 model in the
@@ -822,7 +822,7 @@ such as document geocoding.
 ### 💬 可借鉴之处
 本文提出的基准数据集和评估指标为评估地理编码地址解析技术提供了一个“黄金标准”，有助于研究人员更好地评估和比较不同模型的性能。此外，本文的研究结果表明，GPT-3模型在地址解析任务中具有潜力，但需要进一步的微调才能达到最佳性能。
 
-## Dialogue Games for Benchmarking Language Understanding Motivation, Taxonomy, Strategy
+## dialogue-games-for-benchmarking-language-understanding--motivation--taxonomy--strategy
 ### Abstract
 How does one measure "ability to understand language"? If it is a person's
 ability that is being measured, this is a question that almost never poses
@@ -866,7 +866,7 @@ for development in this field.
 ### 🌟 总结
 对话游戏是一种评估语言理解能力的有效工具，它可以模拟现实生活中的对话场景，并针对语言理解的各个方面进行评估。本文提出的对话游戏分类法为设计对话游戏提供了指导，并为评估模型的语言理解能力提供了新的视角。
 
-## MuG A Multimodal Classification Benchmark on Game Data with Tabular, Textual, and Visual Fields
+## mug--a-multimodal-classification-benchmark-on-game-data-with-tabular--textual--and-visual-fields
 ### Abstract
 Previous research has demonstrated the advantages of integrating data from
 multiple sources over traditional unimodal data, leading to the emergence of
@@ -896,7 +896,7 @@ MuG 包含了来自四个不同游戏类型的八个数据集，涵盖了表格�
 ### 💬 可借鉴之处
 MuG 基准数据集为研究人员提供了一个评估和改进多模态分类模型的重要工具。此外，本文提出的 MUGNET 模型也为多模态学习提供了一种新的思路。未来，研究人员可以利用 MuG 基准数据集进行更多关于多模态学习的研究，并探索新的应用场景。
 
-## Equilibria in Repeated Games under No-Regret with Dynamic Benchmarks
+## equilibria-in-repeated-games-under-no-regret-with-dynamic-benchmarks
 ### Abstract
 In repeated games, strategies are often evaluated by their ability to
 guarantee the performance of the single best action that is selected in
@@ -935,7 +935,7 @@ a strong form of coordination.
 ### 💬 可借鉴之处
 本文提出的动态基准一致性概念为重复博弈中的策略评估提供了一个新的视角，对于理解复杂动态环境中的博弈行为具有重要意义。此外，本文的证明过程揭示了具有强个体保障的独立算法在促进协调方面的潜力，这对于算法设计和博弈理论的应用具有启发意义。
 
-## A Game Benchmark for Real-Time Human-Swarm Control
+## a-game-benchmark-for-real-time-human-swarm-control
 ### Abstract
 We present a game benchmark for testing human-swarm control algorithms and
 interfaces in a real-time, high-cadence scenario. Our benchmark consists of a
@@ -978,7 +978,7 @@ https://sites.google.com/view/swarm-game-benchmark.
 ### 🌟 未来展望
 未来研究可以开发虚拟对手来与人类玩家竞争，并扩展游戏基准以进行人类主体测试，以更深入地了解人类玩家在实时、高频率场景下的策略和行为。
 
-## WILD-SCAV Benchmarking FPS Gaming AI on Unity3D-based Environments
+## wild-scav--benchmarking-fps-gaming-ai-on-unity3d-based-environments
 ### Abstract
 Recent advances in deep reinforcement learning (RL) have demonstrated complex
 decision-making capabilities in simulation environments such as Arcade Learning
@@ -1017,7 +1017,7 @@ https://github.com/inspirai/wilderness-scavenger.
 ### 💬 可借鉴之处
 WILD-SCAV为研究开放世界智能代理学习提供了一个强大的平台，并支持各种实验和任务设计。它可以帮助研究人员开发更强大的RL算法，并推动3D开放世界AI算法的发展。
 
-## The Game of Hidden Rules A New Kind of Benchmark Challenge for Machine Learning
+## the-game-of-hidden-rules--a-new-kind-of-benchmark-challenge-for-machine-learning
 ### Abstract
 As machine learning (ML) is more tightly woven into society, it is imperative
 that we better characterize ML's strengths and limitations if we are to employ
@@ -1052,7 +1052,7 @@ task contributes to its practical difficulty for an arbitrary ML algorithm.
 ### 💬 可借鉴之处
 GOHR为研究ML算法的性能提供了一个新颖而有原则的方法。使用丰富的规则语法，研究人员可以对感兴趣的规则进行精确的更改，以研究它们如何影响算法性能。这种方法可以用于比较不同算法在特定规则集上的性能，并观察规则特征（位置、属性、静态/动态）对MLA性能的影响。GOHR还可以由人类规则学习者进行游戏，从而能够在平等的基础上比较人类学习和ML。
 
-## GOAL Towards Benchmarking Few-Shot Sports Game Summarization
+## goal--towards-benchmarking-few-shot-sports-game-summarization
 ### Abstract
 Sports game summarization aims to generate sports news based on real-time
 commentaries. The task has attracted wide research attention but is still
@@ -1082,7 +1082,7 @@ https://github.com/krystalan/goal.
 ### 💬 可借鉴之处
 本文提出的GOAL数据集和基线模型为体育游戏摘要研究提供了重要的参考。此外，本文还讨论了利用外部资源来增强模型对体育文本的理解和处理能力的必要性。未来的研究方向包括探索半监督和多语言设置，利用图结构来建模评论信息，并采用其他长文档摘要资源来构建多领域或跨领域模型。
 
-## Meterstick Benchmarking Performance Variability in Cloud and Self-hosted Minecraft-like Games Extended Technical Report
+## meterstick--benchmarking-performance-variability-in-cloud-and-self-hosted-minecraft-like-games-extended-technical-report
 ### Abstract
 Due to increasing popularity and strict performance requirements, online
 games have become a workload of interest for the performance engineering
@@ -1140,7 +1140,7 @@ Meterstick是一个用于评估MLG性能波动的基准测试工具。它定义�
 
 本文提出的Meterstick基准测试工具和ISR指标为MLG性能评估提供了新的思路。未来可以进一步研究ISR与玩家感知质量之间的关系，并创建一个公共排行榜，方便MLG服务提供商发布基准测试分数。
 
-## Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game
+## beware-of-the-simulated-dag!-causal-discovery-benchmarks-may-be-easy-to-game
 ### Abstract
 Simulated DAG models may exhibit properties that, perhaps inadvertently,
 render their structure identifiable and unexpectedly affect structure learning
@@ -1178,7 +1178,7 @@ https://github.com/Scriddie/Varsortability.
 ### 💬 可借鉴之处
 本文的研究结果表明，连续结构学习算法对数据缩放非常敏感，并且在不知道真实数据尺度的情况下可能无法很好地工作。因此，在使用和评估这些算法时，需要谨慎考虑数据尺度的影响。此外，本文提出的方差排序性概念和sortnregress基线方法可以用于评估和比较不同结构学习算法在不同基准场景中的性能。
 
-## OpenHoldem A Benchmark for Large-Scale Imperfect-Information Game Research
+## openholdem--a-benchmark-for-large-scale-imperfect-information-game-research
 ### Abstract
 Owning to the unremitting efforts by a few institutes, significant progress
 has recently been made in designing superhuman AIs in No-limit Texas Hold'em
@@ -1222,7 +1222,7 @@ OpenHoldem 的基线 AI 在与现有公开可用的 NLTH AI 的比较中表现�
 ### 💬 可借鉴之处
 OpenHoldem 为大规模不完全信息游戏研究提供了一个宝贵的工具，其标准化评估协议、强基线 AI 和在线测试平台将促进该领域的进一步发展。OpenHoldem 的设计思路和实现方法也为其他游戏 AI 研究提供了参考。
 
-## Towards Game-Playing AI Benchmarks via Performance Reporting Standards
+## towards-game-playing-ai-benchmarks-via-performance-reporting-standards
 ### Abstract
 While games have been used extensively as milestones to evaluate game-playing
 AI, there exists no standardised framework for reporting the obtained
@@ -1265,7 +1265,7 @@ the types of challenges different games pose.
 ### 💬 可借鉴之处
 本文提出的报告指南和基准测试框架对于游戏AI研究人员和开发者具有重要的参考价值。通过遵循这些指南，可以更全面地了解不同AI算法的行为和性能，并促进游戏AI领域的进一步发展。
 
-## Interbank lending with benchmark rates Pareto optima for a class of singular control games
+## interbank-lending-with-benchmark-rates--pareto-optima-for-a-class-of-singular-control-games
 ### Abstract
 We analyze a class of stochastic differential games of singular control,
 motivated by the study of a dynamic model of interbank lending with benchmark
@@ -1294,7 +1294,7 @@ regulatory intervention on the stability of interbank rates.
 ### 💬 可借鉴之处
 本文的研究结果为银行间借贷市场的监管提供了理论依据，并为设计有效的监管政策提供了参考。此外，本文提出的奇异控制博弈模型和Skorokhod问题的求解方法，可以应用于其他金融市场的建模和分析。
 
-## Benchmarking End-to-End Behavioural Cloning on Video Games
+## benchmarking-end-to-end-behavioural-cloning-on-video-games
 ### Abstract
 Behavioural cloning, where a computer is taught to perform a task based on
 demonstrations, has been successfully applied to various video games and
@@ -1326,7 +1326,7 @@ state-action mismatch, due to human reflexes.
 ### 💬 可借鉴之处
 本文的研究结果表明，行为克隆在视频游戏中的应用具有潜力，但仍面临一些挑战。本文提出的建议包括使用高质量数据、调整人类反应时间延迟以及探索其他机器学习方法，以提高行为克隆的性能。
 
-## Design, Benchmarking and Explainability Analysis of a Game-Theoretic Framework towards Energy Efficiency in Smart Infrastructure
+## design--benchmarking-and-explainability-analysis-of-a-game-theoretic-framework-towards-energy-efficiency-in-smart-infrastructure
 ### Abstract
 In this paper, we propose a gamification approach as a novel framework for
 smart building infrastructure with the goal of motivating human occupants to
@@ -1375,7 +1375,7 @@ framework.
 ### 💬 可借鉴之处
 本文提出的游戏化智能建筑框架为提高建筑能源效率提供了一种新颖的方法。该方法通过激励 occupant 采取节能行为，并利用深度学习技术预测 occupant 的能源使用行为，从而为智能建筑管理提供了新的思路。此外，本文提出的可解释性分析方法可以帮助我们更好地理解人类能源使用决策制定，并为设计更有效的激励措施提供依据。
 
-## Quantum Poker A game for quantum computers suitable for benchmarking error mitigation techniques on NISQ devices
+## quantum-poker-a-game-for-quantum-computers-suitable-for-benchmarking-error-mitigation-techniques-on-nisq-devices
 ### Abstract
 Quantum computers are on the verge of becoming a commercially available
 reality. They represent a paradigm shift in computing, with a steep learning
@@ -1415,7 +1415,7 @@ improve expectation values of observables on real quantum devices.
 ### 💬 可借鉴之处
 量子扑克游戏可以作为学习量子计算基本概念的有益工具。此外，本文提出的错误缓解技术可以应用于其他量子计算任务，以提高结果的准确性。
 
-## Correlation in Extensive-Form Games Saddle-Point Formulation and Benchmarks
+## correlation-in-extensive-form-games--saddle-point-formulation-and-benchmarks
 ### Abstract
 While Nash equilibrium in extensive-form games is well understood, very
 little is known about the properties of extensive-form correlated equilibrium
@@ -1456,7 +1456,7 @@ behavior that so far has not received attention in the literature.
 ### 💬 可借鉴之处
 本文提出的BSPP公式和子梯度下降方法为计算EFCE提供了一种新的思路，并为开发更高效的EFCE求解器奠定了基础。此外，本文提出的基准游戏为评估EFCE求解器提供了有价值的工具。这些发现对于理解和应用EFCE在现实世界场景中具有重要意义，例如交通控制、负载均衡和碳减排等领域。
 
-## High-Level Representation of Benchmark Families for Petri Games
+## high-level-representation-of-benchmark-families-for-petri-games
 ### Abstract
 Petri games have been introduced as a multi-player game model representing
 causal memory to address the synthesis of distributed systems. For Petri games
@@ -1491,7 +1491,7 @@ Petri游戏作为一种多玩家游戏模型，被引入用于表示因果记忆
 ### 💬 可借鉴之处
 本文提出的高级Petri游戏表示方法为分布式系统的综合问题提供了一种新的解决方案。该方法具有简洁、清晰和可扩展的特点，可以帮助研究人员更好地理解和解决分布式系统的综合问题。
 
-## Leveling the Playing Field -- Fairness in AI Versus Human Game Benchmarks
+## leveling-the-playing-field----fairness-in-ai-versus-human-game-benchmarks
 ### Abstract
 From the beginning if the history of AI, there has been interest in games as
 a platform of research. As the field developed, human-level competence in
@@ -1523,7 +1523,7 @@ machines
 ### 💬 可借鉴之处
 本文提出的公平性维度分类法为评估人工智能与人类在游戏竞赛中的公平性提供了参考。此外，本文还强调了人工智能在游戏中的优势可能被误解为不公平，并呼吁研究人员关注这一问题。
 
-## Marathon Environments Multi-Agent Continuous Control Benchmarks in a Modern Video Game Engine
+## marathon-environments--multi-agent-continuous-control-benchmarks-in-a-modern-video-game-engine
 ### Abstract
 Recent advances in deep reinforcement learning in the paradigm of locomotion
 using continuous control have raised the interest of game makers for the
@@ -1555,7 +1555,7 @@ share strategies for significantly reducing the training time.
 ### 💬 可借鉴之处
 本文提出的Marathon Environments为研究人员和开发者提供了一个开源的持续控制基准套件，可以轻松地将深度强化学习应用于商业游戏引擎。此外，本文还分享了优化训练时间的策略，可以帮助研究人员和开发者提高训练效率。
 
-## Benchmarking Cognitive Abilities of the Brain with Computer Games
+## benchmarking-cognitive-abilities-of-the-brain-with-computer-games
 ### Abstract
 Most of the players have experienced the feeling of temporarily losing their
 character in a given gameplay situation when they cannot control the character,
@@ -1593,7 +1593,7 @@ benchmark to a standard psychological test.
 ### 💬 可借鉴之处
 本文提出的 BrainB Test Series 6 基准程序为评估玩家的认知能力提供了一种新的方法。该方法可以用于电子竞技人才选拔、认知能力研究等领域。此外，本文还强调了测试环境标准化和测试结果分析的重要性，为相关研究提供了参考。
 
-## Game-theoretic approach to risk-sensitive benchmarked asset management
+## game-theoretic-approach-to-risk-sensitive-benchmarked-asset-management
 ### Abstract
 In this article we consider a game theoretic approach to the Risk-Sensitive
 Benchmarked Asset Management problem (RSBAM) of Davis and Lleo \cite{DL}. In
@@ -1621,7 +1621,7 @@ strategies as for both the players.
 ### 💬 可借鉴之处
 本文提出的游戏理论视角为风险敏感基准资产管理问题提供了一种新的研究思路。该方法不仅可以用于分析投资者和市场之间的博弈，还可以用于设计更有效的资产管理策略。此外，本文提出的模型和求解方法也可以为其他金融领域的博弈问题提供参考。
 
-## Benchmarks for Parity Games (extended version)
+## benchmarks-for-parity-games-(extended-version)
 ### Abstract
 We propose a benchmark suite for parity games that includes all benchmarks
 that have been used in the literature, and make it available online. We give an
@@ -1652,7 +1652,7 @@ we provide a starting point for further experimentation with parity games.
 ### 🌟 总结
 本文提出的公平博弈基准集为该领域的研究提供了重要的工具，有助于推动公平博弈算法的评估和改进。未来，随着更多游戏和属性的加入，该基准集将进一步完善，为公平博弈研究提供更强大的支持。
 
-## Fate stochastic management and policy benchmark in 421, a popular game
+## fate-stochastic-management-and-policy-benchmark-in-421--a-popular-game
 ### Abstract
 Using game and probability theories, I study the French popular game 421, a
 perfect information stochastic stage game. The problem is to find strategies

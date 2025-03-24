@@ -1,35 +1,35 @@
 # Paper List of Terms(MLLM+game)
 - [25/03] **How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game**  
-[[Paper](http://arxiv.org/pdf/2503.10042v1)] [[Code/Page]()] [[TLDR/Notes](#how-do-multimodal-large-language-models-handle-complex-multimodal-reasoning?-placing-them-in-an-extensible-escape-game)]
+[[Paper](http://arxiv.org/pdf/2503.10042v1)] [[Code/Page]()] [[TLDR/Notes](#how-do-multimodal-large-language-models-handle-complex-multimodal-reasoning--placing-them-in-an-extensible-escape-game)]
 
 - [24/12] **From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons**  
-[[Paper](http://arxiv.org/pdf/2412.08442v1)] [[Code/Page]()] [[TLDR/Notes](#from-multimodal-llms-to-generalist-embodied-agents-methods-and-lessons)]
+[[Paper](http://arxiv.org/pdf/2412.08442v1)] [[Code/Page]()] [[TLDR/Notes](#from-multimodal-llms-to-generalist-embodied-agents--methods-and-lessons)]
 
 - [24/10] **Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**  
-[[Paper](http://arxiv.org/pdf/2410.07155v1)] [[Code/Page](https://github.com/YangLing0818/Trans4D)] [[TLDR/Notes](#trans4d-realistic-geometry-aware-transition-for-compositional-text-to-4d-synthesis)]
+[[Paper](http://arxiv.org/pdf/2410.07155v1)] [[Code/Page](https://github.com/YangLing0818/Trans4D)] [[TLDR/Notes](#trans4d--realistic-geometry-aware-transition-for-compositional-text-to-4d-synthesis)]
 
 - [24/10] **ING-VP: MLLMs cannot Play Easy Vision-based Games Yet**  
-[[Paper](http://arxiv.org/pdf/2410.06555v1)] [[Code/Page](https://github.com/Thisisus7/ING-VP.git.)] [[TLDR/Notes](#ing-vp-mllms-cannot-play-easy-vision-based-games-yet)]
+[[Paper](http://arxiv.org/pdf/2410.06555v1)] [[Code/Page](https://github.com/Thisisus7/ING-VP.git.)] [[TLDR/Notes](#ing-vp--mllms-cannot-play-easy-vision-based-games-yet)]
 
 - [24/08] **Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**  
-[[Paper](http://arxiv.org/pdf/2408.01417v1)] [[Code/Page](https://github.com/lil-lab/ICCA.)] [[TLDR/Notes](#talk-less,-interact-better-evaluating-in-context-conversational-adaptation-in-multimodal-llms)]
+[[Paper](http://arxiv.org/pdf/2408.01417v1)] [[Code/Page](https://github.com/lil-lab/ICCA.)] [[TLDR/Notes](#talk-less--interact-better--evaluating-in-context-conversational-adaptation-in-multimodal-llms)]
 
 - [24/06] **MLVU: Benchmarking Multi-task Long Video Understanding**  
-[[Paper](http://arxiv.org/pdf/2406.04264v3)] [[Code/Page]()] [[TLDR/Notes](#mlvu-benchmarking-multi-task-long-video-understanding)]
+[[Paper](http://arxiv.org/pdf/2406.04264v3)] [[Code/Page]()] [[TLDR/Notes](#mlvu--benchmarking-multi-task-long-video-understanding)]
 
 - [24/04] **A Survey on Large Language Model-Based Game Agents**  
 [[Paper](http://arxiv.org/pdf/2404.02039v1)] [[Code/Page](https://github.com/git-disl/awesome-LLM-game-agent-papers.)] [[TLDR/Notes](#a-survey-on-large-language-model-based-game-agents)]
 
 - [24/02] **GenCeption: Evaluate Vision LLMs with Unlabeled Unimodal Data**  
-[[Paper](http://arxiv.org/pdf/2402.14973v4)] [[Code/Page]()] [[TLDR/Notes](#genception-evaluate-vision-llms-with-unlabeled-unimodal-data)]
+[[Paper](http://arxiv.org/pdf/2402.14973v4)] [[Code/Page]()] [[TLDR/Notes](#genception--evaluate-vision-llms-with-unlabeled-unimodal-data)]
 
 - [24/02] **PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain**  
-[[Paper](http://arxiv.org/pdf/2402.15527v1)] [[Code/Page]()] [[TLDR/Notes](#pca-bench-evaluating-multimodal-large-language-models-in-perception-cognition-action-chain)]
+[[Paper](http://arxiv.org/pdf/2402.15527v1)] [[Code/Page]()] [[TLDR/Notes](#pca-bench--evaluating-multimodal-large-language-models-in-perception-cognition-action-chain)]
 
 
 
 # TLDR/Notes
-## How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game
+## how-do-multimodal-large-language-models-handle-complex-multimodal-reasoning--placing-them-in-an-extensible-escape-game
 ### Abstract
 The rapid advancing of Multimodal Large Language Models (MLLMs) has spurred
 interest in complex multimodal reasoning tasks in the real-world and virtual
@@ -73,7 +73,7 @@ EscapeCraft是一个可定制的开放环境，允许模型进行自由探索，
 ### 💬 可借鉴之处
 本文提出的MM-Escape基准和EscapeCraft环境为评估和改进MLLMs的多模态推理能力提供了新的思路和方法。通过关注中间模型行为和推理过程，可以更全面地理解模型行为和推理机制，从而推动MLLMs在多模态推理任务上的发展。
 
-## From Multimodal LLMs to Generalist Embodied Agents Methods and Lessons
+## from-multimodal-llms-to-generalist-embodied-agents--methods-and-lessons
 ### Abstract
 We examine the capability of Multimodal Large Language Models (MLLMs) to
 tackle diverse domains that extend beyond the traditional language and vision
@@ -107,7 +107,7 @@ GEA在多个基准测试中展现出强大的泛化能力，与现有的通用�
 ### 💬 可借鉴之处
 本文的研究结果表明，使用跨领域数据进行训练和在线强化学习对于构建通用智能体至关重要。此外，本文还强调了预训练MLLMs在GEA架构中的重要性，以及模型规模对性能的影响。这些发现为未来开发更强大的通用智能体提供了重要的启示和指导。
 
-## Trans4D Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis
+## trans4d--realistic-geometry-aware-transition-for-compositional-text-to-4d-synthesis
 ### Abstract
 Recent advances in diffusion models have demonstrated exceptional
 capabilities in image and video generation, further improving the effectiveness
@@ -143,7 +143,7 @@ Trans4D在生成具有准确和高质量过渡的4D场景方面始终优于现�
 ### 💬 可借鉴之处
 Trans4D为4D场景合成提供了一种新的思路，其物理感知的过渡规划和几何感知的过渡网络为生成具有复杂交互和显著变形的4D场景提供了有效的方法。此外，Trans4D的训练策略平衡了效率和质量，使其能够在有限的计算资源下生成高质量的4D场景。
 
-## ING-VP MLLMs cannot Play Easy Vision-based Games Yet
+## ing-vp--mllms-cannot-play-easy-vision-based-games-yet
 ### Abstract
 As multimodal large language models (MLLMs) continue to demonstrate
 increasingly competitive performance across a broad spectrum of tasks, more
@@ -184,7 +184,7 @@ ING-VP基准测试包含6个不同的游戏，涵盖300个关卡，每个关卡�
 ### 💬 可借鉴之处
 ING-VP基准测试为评估MLLMs的空间想象力和多步推理能力提供了一个专门的评估框架，有助于推动MLLMs在复杂空间推理和规划能力方面的进步。此外，ING-VP基准测试的结果也为MLLMs的未来设计和训练策略提供了有价值的见解。
 
-## Talk Less, Interact Better Evaluating In-context Conversational Adaptation in Multimodal LLMs
+## talk-less--interact-better--evaluating-in-context-conversational-adaptation-in-multimodal-llms
 ### Abstract
 Humans spontaneously use increasingly efficient language as interactions
 progress, by adapting and forming ad-hoc conventions. This phenomenon has been
@@ -215,7 +215,7 @@ https://github.com/lil-lab/ICCA.
 ### 💬 可借鉴之处
 本文的研究结果表明，尽管当前的MLLMs可能被动地理解其对话者的不断发展变化的语言，但它们适应自身语言以提高沟通效率的能力并没有自然地从它们的训练或指令调整中产生。这为未来的研究指明了重要的方向，包括提高模型的自发语言效率、保持语言一致性、避免过度重复倾向以及处理单个查询中的更多图像。
 
-## MLVU Benchmarking Multi-task Long Video Understanding
+## mlvu--benchmarking-multi-task-long-video-understanding
 ### Abstract
 The evaluation of Long Video Understanding (LVU) performance poses an
 important but challenging research problem. Despite previous efforts, the
@@ -261,7 +261,7 @@ MLVU基准包含9个不同的评估任务，旨在全面评估MLLMs在长视频�
 ### 💬 可借鉴之处
 MLVU基准为长视频理解研究提供了一个全面而深入的评估框架，有助于研究人员了解MLLMs在长视频理解方面的优势和不足，并为未来的技术改进提供方向。此外，MLVU基准的设计理念和方法可以为其他多模态任务评估基准的开发提供参考。
 
-## A Survey on Large Language Model-Based Game Agents
+## a-survey-on-large-language-model-based-game-agents
 ### Abstract
 The development of game agents holds a critical role in advancing towards
 Artificial General Intelligence (AGI). The progress of LLMs and their
@@ -351,7 +351,7 @@ accessible at: https://github.com/git-disl/awesome-LLM-game-agent-papers.
 [45] Knowledge discovery through game-playing
 [46] Agent society simulation
 
-## GenCeption Evaluate Vision LLMs with Unlabeled Unimodal Data
+## genception--evaluate-vision-llms-with-unlabeled-unimodal-data
 ### Abstract
 Multimodal Large Language Models (MLLMs) are typically assessed using
 expensive annotated multimodal benchmarks, which often lag behind the rapidly
@@ -401,7 +401,7 @@ GenCeption提供了一种新颖的无标注评估方法，可以有效地评估M
 ### 🌟 总结
 GenCeption为MLLMs的评估提供了一种新颖且有效的无标注方法，能够有效地评估MLLMs的跨模态语义一致性和幻觉倾向。该方法具有成本效益、动态适应、全面评估和可扩展性等优势，为MLLMs的评估提供了新的思路和方法。
 
-## PCA-Bench Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain
+## pca-bench--evaluating-multimodal-large-language-models-in-perception-cognition-action-chain
 ### Abstract
 We present PCA-Bench, a multimodal decision-making benchmark for evaluating
 the integrated capabilities of Multimodal Large Language Models (MLLMs).

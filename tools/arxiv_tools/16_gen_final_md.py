@@ -43,17 +43,18 @@ def make_survey_markdown(input_df, output_file, do_show_md=True):
         
         # >>>>>> inject output markdown
         # >>> table content
+        no_biaodian_title = re.sub(r'[,:.?"\']', ' ', title).replace(' ', '-').lower()
         markdown_table_content = """- [{year_month_str}] **{title}**  
 [[Paper]({paper_url})] [[Code/Page]({code_or_page})] [[TLDR/Notes]({link_2_node})]""".format(
     year_month_str=year_month_str, title=title, paper_url=a_paper['pdf_url'], code_or_page=code_or_page,
-    link_2_node=f"#{title.replace(':', '').replace(' ', '-').lower()}"
+    link_2_node=f"#{no_biaodian_title}"
     )
         print(markdown_table_content)
         table_content += markdown_table_content + '\n\n'
         
         # >>>>>> tldr cont
         cur_paper_tldr = ''
-        cur_paper_tldr += f"## {title.replace(':', '')}\n"
+        cur_paper_tldr += f"## {no_biaodian_title}\n"
         cur_paper_tldr += f"### Abstract\n{a_paper['summary']}\n"
         cur_paper_tldr += a_paper['llm_summary_res'].replace('##', '###')
         tldr_content += cur_paper_tldr + '\n\n'
