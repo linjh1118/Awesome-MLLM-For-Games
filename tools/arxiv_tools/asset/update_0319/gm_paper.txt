@@ -1,0 +1,6 @@
+World and Human Action Models towards  gameplay ideation
+GameGen-X: Interactive Open-world Game Video Generation
+GameFactory: Creating New Games with Generative Interactive Videos
+Playable Game Generation
+Diffusion Models Are Real-Time Game Engines
+GAVEL: Generating Games Via Evolution and Language Models
