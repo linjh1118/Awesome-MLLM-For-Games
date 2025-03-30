@@ -1,15 +1,15 @@
 # Paper List of method_papers.md
 - [25/03] **JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**  
-[[Paper](http://arxiv.org/pdf/2503.16365v1)] [[Code/Page](https://craftjarvis.github.io/JarvisVLA.)] [[TLDR/Notes](#jarvis-vla--post-training-large-scale-vision-language-models-to-play-visual-games-with-keyboards-and-mouse)]
+[[Paper](http://arxiv.org/pdf/2503.16365v1)] [[Code/Page](https://craftjarvis.github.io/JarvisVLA)] [[TLDR/Notes](#jarvis-vla--post-training-large-scale-vision-language-models-to-play-visual-games-with-keyboards-and-mouse)]
 
 - [25/02] **Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy**  
-[[Paper](http://arxiv.org/pdf/2502.19902v2)] [[Code/Page](https://cybertronagent.github.io/Optimus-2.github.io/.)] [[TLDR/Notes](#optimus-2--multimodal-minecraft-agent-with-goal-observation-action-conditioned-policy)]
+[[Paper](http://arxiv.org/pdf/2502.19902v2)] [[Code/Page](https://cybertronagent.github.io/Optimus-2.github.io)] [[TLDR/Notes](#optimus-2--multimodal-minecraft-agent-with-goal-observation-action-conditioned-policy)]
 
 - [24/12] **MineStudio: A Streamlined Package for Minecraft AI Agent Development**  
-[[Paper](http://arxiv.org/pdf/2412.18293v2)] [[Code/Page](https://github.com/CraftJarvis/MineStudio.)] [[TLDR/Notes](#minestudio--a-streamlined-package-for-minecraft-ai-agent-development)]
+[[Paper](http://arxiv.org/pdf/2412.18293v2)] [[Code/Page](https://github.com/CraftJarvis/MineStudio)] [[TLDR/Notes](#minestudio--a-streamlined-package-for-minecraft-ai-agent-development)]
 
 - [23/10] **GROOT: Learning to Follow Instructions by Watching Gameplay Videos**  
-[[Paper](http://arxiv.org/pdf/2310.08235v2)] [[Code/Page](https://craftjarvis-groot.github.io.)] [[TLDR/Notes](#groot--learning-to-follow-instructions-by-watching-gameplay-videos)]
+[[Paper](http://arxiv.org/pdf/2310.08235v2)] [[Code/Page](https://craftjarvis-groot.github.io)] [[TLDR/Notes](#groot--learning-to-follow-instructions-by-watching-gameplay-videos)]
 
 - [25/03] **ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment**  
 [[Paper](http://arxiv.org/pdf/2503.02505v1)] [[Code/Page]()] [[TLDR/Notes](#rocket-2--steering-visuomotor-policy-via-cross-view-goal-alignment)]
@@ -30,7 +30,7 @@
 [[Paper](http://arxiv.org/pdf/2107.08408v2)] [[Code/Page]()] [[TLDR/Notes](#pre-trained-language-models-as-prior-knowledge-for-playing-text-based-games)]
 
 - [23/02] **Guiding Pretraining in Reinforcement Learning with Large Language Models**  
-[[Paper](http://arxiv.org/pdf/2302.06692v2)] [[Code/Page](https://github.com/yuqingd/ellm.)] [[TLDR/Notes](#guiding-pretraining-in-reinforcement-learning-with-large-language-models)]
+[[Paper](http://arxiv.org/pdf/2302.06692v2)] [[Code/Page](https://github.com/yuqingd/ellm)] [[TLDR/Notes](#guiding-pretraining-in-reinforcement-learning-with-large-language-models)]
 
 - [24/01] **PokerGPT: An End-to-End Lightweight Solver for Multi-Player Texas Hold'em via Large Language Model**  
 [[Paper](http://arxiv.org/pdf/2401.06781v1)] [[Code/Page]()] [[TLDR/Notes](#pokergpt--an-end-to-end-lightweight-solver-for-multi-player-texas-hold-em-via-large-language-model)]
@@ -342,7 +342,7 @@ a novel framework to address this question. We first prompt an LLM to generate
 training environments by giving it the task description and simulator
 objectives that the agents should learn and then asking it to generate a set of
 environment configurations (e.g., different terrains, items initially given to
-agents, etc.). Next, we train a small RL agent in a mixture of the original and
+agents, etc). Next, we train a small RL agent in a mixture of the original and
 LLM-generated environments. Then, we enable the LLM to continuously adapt the
 generated environments to progressively improve the skills that the agent is
 weak at, by providing feedback to the LLM in the form of the agent's
