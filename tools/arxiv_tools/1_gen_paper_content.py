@@ -41,7 +41,8 @@ def get_arxiv_result_from_paper_titles(paper_title):
     
     tidy_title = paper_title
     if ':' in paper_title:
-        tidy_title = paper_title.split(':')[1].strip()
+        # tidy_title = paper_title.split(':')[1].strip()
+        tidy_title = paper_title.replace(':', '').strip()
     tidy_title = ' '.join(tidy_title.split()) # 将多余空格删除
     client = arxiv.Client()
     

@@ -7,7 +7,8 @@
 
 # cur_name="method_papers"
 # cur_name="unify"
-cur_name="gui_agent"
+# cur_name="gui_agent"
+cur_name="mc_agent"
 echo ">>>>> [START] 1_gen_paper_content.py"
 python3 tools/arxiv_tools/1_gen_paper_content.py \
     --input_file tools/arxiv_tools/asset/update_0323/${cur_name}/list_${cur_name}.md \
