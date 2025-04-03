@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 import time
 import arxiv
 import argparse
@@ -28,8 +29,15 @@ def get_arxiv_result_from_paper_titles(paper_title):
     """
     Get the arXiv URL for a given title.
     """
+    # if isinstance(paper_title, list):
+    #     return [get_arxiv_result_from_paper_titles(t) for t in paper_title if t is not None]
     if isinstance(paper_title, list):
-        return [get_arxiv_result_from_paper_titles(t) for t in paper_title if t is not None]
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            results = list(executor.map(
+                lambda t: get_arxiv_result_from_paper_titles(t) if t is not None else None,
+                paper_title
+            ))
+        return [result for result in results if result is not None]
     
     tidy_title = paper_title
     if ':' in paper_title:
@@ -66,6 +74,7 @@ def get_search_result(terms = ['VLM', 'Games'], n_papers = 5) -> str:
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
     arxiv_results = list(client.results(search))  # you can get something by [x.title for x in results]
+    arxiv_results = [x for x in arxiv_results if x is not None]
     return arxiv_results
 
 def save_arxiv_search_results(arxiv_results, output_file):
@@ -81,16 +90,19 @@ def save_arxiv_search_results(arxiv_results, output_file):
     data_list = []
     
     for result in arxiv_results:
-        each_data = dict(
-            title = result.title,
-            authors = ', '.join([str(author) for author in result.authors]),
-            summary = result.summary,
-            url = result.entry_id,
-            pdf_url = result.pdf_url,
-            published = result.published,
-            comment = result.comment,
-            
-        )
+        try:
+            each_data = dict(
+                title = result.title,
+                authors = ', '.join([str(author) for author in result.authors]),
+                summary = result.summary,
+                url = result.entry_id,
+                pdf_url = result.pdf_url,
+                published = result.published,
+                comment = result.comment,
+            )
+        except Exception as e:
+            print(f"Error: {e} when processing {result.title}")
+            continue
         data_list.append(each_data)
         pdf_save_dir = PDF_SAVE_DIR
         
