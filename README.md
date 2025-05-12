@@ -22,6 +22,42 @@
 
 🤗 By the way, if you're into generative models for game development, take a look at our [Awesome-Generative-Model-For-Games](https://github.com/linjh1118/Awesome-Generative-Model-For-Games) repository, which showcases the latest research and techniques in this area. 
 
+
+---
+
+## Acknowledgements
+
+This project has been inspired by the work of [git-disl/awesome-LLM-game-agent-papers](https://github.com/git-disl/awesome-LLM-game-agent-papers). Special thanks go to [Sihao Hu](https://github.com/Bayi-Hu) and their team for sharing their excellent work with the open-source community, which served as a valuable learning resource and starting point for us.
+
+---
+
+## Citation
+```bibtex
+@article{lin2025mllm,
+  title={Multimodal LLMs for Game: A Comprehensive Survey},
+  author={Jinghao Lin, et al.},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2025}
+}
+```
+
+---
+
+## Contribution
+Welcome contributions! Please:
+1. Check for existing papers before submitting
+2. Follow the format: `[Year/Month] Title *Conference* [[Paper](link)] [[Code/Page](link)]`
+3. Include brief technical highlights
+4. Categorize papers appropriately
+
+*Maintained by [Jinghao Lin] - linjh1118@foxmail.com*
+
+## Contributors
+<a href="https://github.com/linjh1118/Awesome-MLLM-For-Games/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=linjh1118/Awesome-MLLM-For-Games" />
+</a>
+
+
 ---
 - [25/03] **How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game** 
 [[Paper](http://arxiv.org/pdf/2503.10042v1)] [[TLDR/Notes](#how-do-multimodal-large-language-models-handle-complex-multimodal-reasoning--placing-them-in-an-extensible-escape-game)]
